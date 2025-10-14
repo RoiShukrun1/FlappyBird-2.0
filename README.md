@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird – AI & Multiplayer Edition
+# 🐦 Flappy Bird 2.0 – AI & Multiplayer Edition
 
 A modern take on **Flappy Bird** with:
 - **Single player** classic mode
@@ -7,16 +7,15 @@ A modern take on **Flappy Bird** with:
 - **Multiplayer LAN (host/client)** for online play
 - **User registration & login** (bcrypt hashing)
 - **Leaderboard** backed by MongoDB
-- **AI demo**
+- **AI player demonstration**
 
 ---
-## Problem Statement
 
 Traditional versions of casual games like *Flappy Bird* offer only a basic single‑player loop, which limits replayability and long‑term engagement. Most clones lack competitive elements, AI challenges, multiplayer, or social features. Players quickly lose interest without difficulty progression, variety, or learning opponents.
 
 This project addresses those gaps by adding multiple game modes, AI‑powered opponents with configurable difficulty, real‑time multiplayer, and a competitive leaderboard. The result is a modern, feature‑rich experience designed to sustain player interest with diverse gameplay and social competition.
 
-## Objectives
+## Key features
 
 1. Build a feature‑rich Flappy Bird with multiple modes (classic, AI challenge, Man‑vs‑Machine, multiplayer).
 2. Implement NEAT‑based AI opponents with configurable difficulty (Easy/Medium/Hard/Extreme).
