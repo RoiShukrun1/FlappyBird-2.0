@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+pygame
+bcrypt
+pymongo
+requests
+neat-python
