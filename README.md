@@ -48,3 +48,12 @@ uvicorn server:app --host 127.0.0.1 --port 8001 --reload
 Run it with Python and pick a mode:
 - **Main menu**
   python main.py
+
+## 👤 Author
+
+Roi Shukrun, Aviel Segev, Kobi Hadad
+
+## Acknowledgements
+We would like to thank our course instructors and fellow students for their support and feedback throughout this project.
+
+Happy coding!
