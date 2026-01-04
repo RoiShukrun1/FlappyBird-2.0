@@ -49,9 +49,9 @@ Run it with Python and pick a mode:
 - **Main menu**
   python main.py
 
-## 👤 Author
+## 👤 Authors
 
-Roi Shukrun, Aviel Segev, Kobi Hadad
+Roi Shukrun, Aviel Segev and Kobi Hadad
 
 ## Acknowledgements
 We would like to thank our course instructors and fellow students for their support and feedback throughout this project.
